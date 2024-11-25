@@ -1,6 +1,6 @@
 //Del siguiente arreglo de objetos, retornar otro arreglo con los pokemon tipo fuego. 
 
-let pokemon = [
+const pokemon = [
     { nombre: 'Pikachu', tipo: 'Electrico' },
     { nombre: 'Charmander', tipo: 'Fuego' },
     { nombre: 'Bulbasaur', tipo: 'Planta' },
